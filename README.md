@@ -4,6 +4,10 @@
 
 This repository contains code for solving the 2D Helmholtz equation in the presence of a point source and a periodic "staircase" geometry subject to Neumann bondary conditions. It is not a standalone package (but may become one in the future).
 
+## Methods
+
+This code implements the method published in [this paper](https://doi.org/10.1016/j.jcp.2024.113383).
+
 ## The Well dataset - how to run
 
 To generate simulations used in The Well dataset, please run
